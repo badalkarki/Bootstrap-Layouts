@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  height: 100px;
+}
+.footer {
+  height: 100px;
+}
+
+.MainContent {
+  height: 300px;
+}
+
+.content1 {
+  height: 50%;
+}
+
+.content2 {
+  height: 50%;
+}
